@@ -1,3 +1,3 @@
 import numpy
 
-print "Hello Slack !"
+print "Hello Sam Sepiol !"
